@@ -3,3 +3,8 @@
   box-shadow:none;
   border:none;
 }
+
+.ui.centered.grid.container {
+  padding-bottom: 10px;
+  margin: 10px 0px 10px 0px;
+}
